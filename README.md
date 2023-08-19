@@ -1,6 +1,6 @@
 # Recipes 😋 🥐 🍰 🧁 🍡
 
-![picture](/img/BeFunky%20Collage.jpg)
+![picture](BeFunkyCollage.jpg)
 
 ## Made this project inspired by the most delicious recipes!
 
